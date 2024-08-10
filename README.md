@@ -21,7 +21,7 @@ type `scout` and enter
 
 - `Enter the port to publish (default: 3001): ` _Default is *3001*, or type your desired port (e.g., `3333`)_
 
-- `Enter your public IP address (default: 62.169.28.195): ` _Default is *your_public_ip*, or type your public IP_
+- `Enter your public IP address (default: your_public_ip): ` _Default is *your_public_ip*, or type your public IP_
 
 - `Enter the Scout Name (default: SCOUT-SCOUT_UID): ` _Default is "SCOUT-SCOUT_UID", or type your desired Scout Name_
 
