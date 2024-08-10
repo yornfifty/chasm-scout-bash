@@ -1,5 +1,5 @@
 # What this script do?
-- craete `/root/chasm-scout-nodes/<SCOUT_NAME>/docker-compose.yaml`
+- create `/root/chasm-scout-nodes/<SCOUT_NAME>/docker-compose.yaml`
 - start docker container
 - allowing given publish port with `ufw`
 
