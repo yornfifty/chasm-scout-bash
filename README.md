@@ -1,7 +1,7 @@
 # What this script do?
 - create `/root/chasm-scout-nodes/<SCOUT_NAME>/docker-compose.yaml`
 - start docker container
-- allowing given publish port with `ufw`
+- allowing given publish port with `ufw allow $PORT`
 
 # Setup Guide
 1. get and install
