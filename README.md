@@ -1,5 +1,7 @@
 # What this script do?
-`scout` command will create a `docker-compose.yaml` file at `/root/chasm-scout-nodes/<SCOUT_NAME>/` and you can choose to immediately run the container or not
+- craete `/root/chasm-scout-nodes/<SCOUT_NAME>/docker-compose.yaml`
+- start docker container
+- allowing given publish port with `ufw`
 
 # Setup Guide
 1. get and install
